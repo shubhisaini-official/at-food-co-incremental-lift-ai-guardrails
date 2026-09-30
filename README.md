@@ -40,21 +40,8 @@ Evaluating true campaign causality requires comparing campaign treatment groups 
 
 ## 🧠 2. Personalization Tiers & Predictive Segmentation
 
-               Personalization Maturity Pyramid
-                                 ▲
-                             /        \
-                            /          \
-                           / Predictive \
-                          / Segmentation \
-                         /----------------\
-                        /   Contextual &   \
-                       / Lifecycle Trigger  \
-                      /----------------------\
-                     / Segmented & Behavioral \
-                    /--------------------------\
-                   /   Cosmetic Personalization \
-                  /  (e.g., Hi [First_Name] tag) \
-                 /________________________________\
+<img width="568" height="479" alt="image" src="https://github.com/user-attachments/assets/cf417967-3c9d-4925-98c3-b92da5926b94" />
+
 
 * **Cosmetic Personalization:** Basic dynamic field replacement (`Hi [First Name]`) without altering the core messaging or offer.
 * **Descriptive vs. Predictive Segmentation:**
